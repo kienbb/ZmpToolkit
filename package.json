@@ -1,0 +1,7 @@
+{
+	"name": "com.kienbb.zmptoolkit",
+	"displayName": "Zalo WebGL Template",
+	"description": "Template and tools for develop zalo mini app",
+	"unity": "2022.3",
+	"version": "1.0.0"
+}
